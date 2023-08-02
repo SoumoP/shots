@@ -1,0 +1,13 @@
+.nav-con{
+    width: 100%;
+    text-align: center;
+    height: 10vh;
+}
+.app-name{
+    font-weight: 800;
+    font-size: 3rem;
+    padding: 5px;
+    margin: 0px;
+    color: white;
+    text-align: center;
+}
